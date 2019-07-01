@@ -1,0 +1,6 @@
+    
+https://jsfiddle.net/63o29Lhg/ ------ current day and date
+https://jsfiddle.net/djr9v5ky/ ------ leap year
+https://jsfiddle.net/8yumrLo5/ ------ random number
+https://jsfiddle.net/fto8u1zg/ ------ days left for christmas
+https://jsfiddle.net/4smrz7n2/------ capitalize the first letter 
