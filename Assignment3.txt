@@ -1,0 +1,3 @@
+https://jsfiddle.net/ezk2ftdL/ ---- addition of numbers
+
+https://jsfiddle.net/zbmnx982/ ---- factorial
